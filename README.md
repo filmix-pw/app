@@ -2,7 +2,7 @@
   <img src="logo.png" width="96" alt="Filmix App logo">
 </p>
 
-<h1 align="center">Filmix.pw</h1>
+<h1 align="center">Фильмикс</h1>
 
 <p align="center">
   Удобный клиент Filmix для Windows, Android и Android TV.
